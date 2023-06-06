@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5419d430.css",
-    "main.js": "/static/js/main.01966f6b.js",
+    "main.js": "/static/js/main.e9b9eace.js",
     "static/media/back9.png": "/static/media/back9.a80161339e2bd9b0cd28.png",
     "static/media/back.jpg": "/static/media/back.e866e9f63a803d30eaa5.jpg",
     "static/media/foxstore_back.jpg": "/static/media/foxstore_back.dbcbed431fa17ad7e937.jpg",
@@ -31,10 +31,10 @@
     "static/media/2.png": "/static/media/2.c0582710e67cacae37c6.png",
     "index.html": "/index.html",
     "main.5419d430.css.map": "/static/css/main.5419d430.css.map",
-    "main.01966f6b.js.map": "/static/js/main.01966f6b.js.map"
+    "main.e9b9eace.js.map": "/static/js/main.e9b9eace.js.map"
   },
   "entrypoints": [
     "static/css/main.5419d430.css",
-    "static/js/main.01966f6b.js"
+    "static/js/main.e9b9eace.js"
   ]
 }
