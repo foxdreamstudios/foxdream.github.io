@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.31b61e88.css",
-    "main.js": "/static/js/main.b170e5b4.js",
+    "main.css": "/static/css/main.c3d37c15.css",
+    "main.js": "/static/js/main.480b98cc.js",
     "static/media/back9.png": "/static/media/back9.a80161339e2bd9b0cd28.png",
     "static/media/back.jpg": "/static/media/back.e866e9f63a803d30eaa5.jpg",
     "static/media/foxstore_back.jpg": "/static/media/foxstore_back.dbcbed431fa17ad7e937.jpg",
@@ -30,11 +30,11 @@
     "static/media/team.png": "/static/media/team.440cf4d3f4c2f56c75e4.png",
     "static/media/2.png": "/static/media/2.c0582710e67cacae37c6.png",
     "index.html": "/index.html",
-    "main.31b61e88.css.map": "/static/css/main.31b61e88.css.map",
-    "main.b170e5b4.js.map": "/static/js/main.b170e5b4.js.map"
+    "main.c3d37c15.css.map": "/static/css/main.c3d37c15.css.map",
+    "main.480b98cc.js.map": "/static/js/main.480b98cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.31b61e88.css",
-    "static/js/main.b170e5b4.js"
+    "static/css/main.c3d37c15.css",
+    "static/js/main.480b98cc.js"
   ]
 }
